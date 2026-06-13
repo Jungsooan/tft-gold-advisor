@@ -1,0 +1,5 @@
+﻿tft_gold.duckdb
+images/
+__pycache__/
+.venv/
+*.pyc
